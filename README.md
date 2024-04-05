@@ -28,3 +28,8 @@ Use this tool to analyze websites. You can find the app in developer tools (F12)
 ## 4. Create a web UI with ASP.NET Core
 "Learn how to create web pages using Razor with ASP.NET Core."
 
+You need to install .NET
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.203-windows-x64-installer
+
+
+
